@@ -17,8 +17,8 @@ Alot of totorials talking about websocket apis in nestjs do not tacklle on using
 
 ### Installing dependencies
 
-[X] clone the [repo](https://github.com/PatrickNiyogitare28/nestjs-socket-boiler-plate)
-[X] run `npm install` or `yarn install` to add dependencies
+- [X] clone the [repo](https://github.com/PatrickNiyogitare28/nestjs-socket-boiler-plate)
+- [X] run `npm install` or `yarn install` to add dependencies
 
 ### Starting the application
 
