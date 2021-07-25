@@ -41,5 +41,8 @@ After starting the application, you should see our layout when visiting http://l
 
 You can also use RESTfull API testing tool like [insomenia](https://insomnia.rest/) or [postman](https://www.postman.com/) to test the functionality
 
+## LICENSE
+[MIT LICENSE](https://github.com/PatrickNiyogitare28/nestjs-socket-boiler-plate/blob/main/LICENSE)
+
 ## Author
 patrickniyogitare28@gmail.com
